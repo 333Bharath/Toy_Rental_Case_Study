@@ -17,6 +17,7 @@ namespace Toy_Rental_Case_Study
             for(int i=0;i<5;i++)
             {
                 arr[i] = Console.ReadLine();
+
             }
 
             Array.Sort(arr);
